@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Server.cpp
+Poco/Net/HTTPServer.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPServer.h
+Poco/Net/HTTPRequestHandler.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPRequestHandler.h
+Poco/Net/HTTPRequestHandlerFactory.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPRequestHandlerFactory.h
+Poco/Net/HTTPServerParams.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPServerParams.h
+Poco/Net/HTTPServerRequest.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPServerRequest.h
+Poco/Net/HTTPServerResponse.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPServerResponse.h
+Poco/Net/HTTPServerParams.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/HTTPServerParams.h
+Poco/Net/ServerSocket.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/ServerSocket.h
+Poco/Net/WebSocket.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/WebSocket.h
+Poco/Net/NetException.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Net/NetException.h
+Poco/Util/ServerApplication.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Util/ServerApplication.h
+Poco/Util/Option.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Util/Option.h
+Poco/Util/OptionSet.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Util/OptionSet.h
+Poco/Util/HelpFormatter.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Util/HelpFormatter.h
+Poco/Format.h
+/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Poco/Format.h
+iostream
+-
+

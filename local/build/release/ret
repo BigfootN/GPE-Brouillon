@@ -1,0 +1,91 @@
+-- Searching for library poco...
+-- /usr/include
+CMake Error at src/CMakeLists.txt:1 (add_library):
+  add_library cannot create target "network" because another target with the
+  same name already exists.  The existing target is a shared library created
+  in source directory "/home/bigfoot/Documents/ETNA/GPE/local/lib/Http".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoCrypto" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoNet" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoNetSSL" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoUtil" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoDataMySQL" to target "network" which is
+  not built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoDataODBC" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoData" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoDataSQLite" to target "network" which is
+  not built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoEncodings" to target "network" which is
+  not built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoFoundation" to target "network" which is
+  not built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoJSON" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoMongoDB" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoRedis" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoUtil" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoXML" to target "network" which is not
+  built in this directory.
+
+
+CMake Error at src/CMakeLists.txt:7 (target_link_libraries):
+  Attempt to add link library "PocoZip" to target "network" which is not
+  built in this directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/bigfoot/Documents/ETNA/GPE/local/build/release/CMakeFiles/CMakeOutput.log".

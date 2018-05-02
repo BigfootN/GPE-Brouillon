@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/bigfoot/Documents/ETNA/GPE/local/build/release/lib/Database",
+  "command": "/usr/bin/c++  -Ddatabase_EXPORTS -I/home/bigfoot/Documents/ETNA/GPE/local/include  -Wall -Werror -Wextra -g -fPIC   -std=gnu++14 -o CMakeFiles/database.dir/Database.cpp.o -c /home/bigfoot/Documents/ETNA/GPE/local/lib/Database/Database.cpp",
+  "file": "/home/bigfoot/Documents/ETNA/GPE/local/lib/Database/Database.cpp"
+},
+{
+  "directory": "/home/bigfoot/Documents/ETNA/GPE/local/build/release/lib/Database",
+  "command": "/usr/bin/c++  -Ddatabase_EXPORTS -I/home/bigfoot/Documents/ETNA/GPE/local/include  -Wall -Werror -Wextra -g -fPIC   -std=gnu++14 -o CMakeFiles/database.dir/Client.cpp.o -c /home/bigfoot/Documents/ETNA/GPE/local/lib/Database/Client.cpp",
+  "file": "/home/bigfoot/Documents/ETNA/GPE/local/lib/Database/Client.cpp"
+},
+{
+  "directory": "/home/bigfoot/Documents/ETNA/GPE/local/build/release/lib/Database",
+  "command": "/usr/bin/c++  -Ddatabase_EXPORTS -I/home/bigfoot/Documents/ETNA/GPE/local/include  -Wall -Werror -Wextra -g -fPIC   -std=gnu++14 -o CMakeFiles/database.dir/Login.cpp.o -c /home/bigfoot/Documents/ETNA/GPE/local/lib/Database/Login.cpp",
+  "file": "/home/bigfoot/Documents/ETNA/GPE/local/lib/Database/Login.cpp"
+},
+{
+  "directory": "/home/bigfoot/Documents/ETNA/GPE/local/build/release/lib/Http",
+  "command": "/usr/bin/c++  -Dnetwork_EXPORTS -I/home/bigfoot/Documents/ETNA/GPE/local/include  -Wall -Werror -Wextra -g -fPIC   -std=gnu++14 -o CMakeFiles/network.dir/Server.cpp.o -c /home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Server.cpp",
+  "file": "/home/bigfoot/Documents/ETNA/GPE/local/lib/Http/Server.cpp"
+},
+{
+  "directory": "/home/bigfoot/Documents/ETNA/GPE/local/build/release/test",
+  "command": "/usr/bin/c++   -I/home/bigfoot/Documents/ETNA/GPE/local/include  -Wall -Werror -Wextra -g   -std=gnu++14 -o CMakeFiles/test_add.dir/test_add.cpp.o -c /home/bigfoot/Documents/ETNA/GPE/local/test/test_add.cpp",
+  "file": "/home/bigfoot/Documents/ETNA/GPE/local/test/test_add.cpp"
+}
+]

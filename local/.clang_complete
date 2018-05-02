@@ -1,0 +1,6 @@
+-Iinclude
+-I/usr/include
+-Wall
+-Werror
+-Wextra
+-std=c++14
